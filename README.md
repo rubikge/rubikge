@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubikge
-- 👀 I’m interested in Teaching
-- 🌱 I’m currently learning React and FrontEnd
+- 👀 I’m interested in Teaching and IT
+- 🌱 I’m always learning React, Vue, Golang, Python, HTML, both frontend and backend development, AWS, CI/CD, AI tools and APIs, mathematics, linguistics, educational psychology and more.
 
 
 <!---
